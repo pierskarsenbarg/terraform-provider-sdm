@@ -1,4 +1,4 @@
-module github.com/strongdm/terraform-provider-sdm
+module github.com/strongdm/terraform-provider-sdm/v2
 
 go 1.13
 
